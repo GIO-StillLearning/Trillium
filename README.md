@@ -27,3 +27,6 @@ Find, Download, Read
 
 ***
 ***
+# [System Tools, OS, Tweaks, Dev Tools](https://github.com/GIORIEL/Trillium/wiki/System-Tools---OS---Dev-Tools)
+Find Tools, Tweaks, OS
+
