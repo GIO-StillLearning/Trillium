@@ -29,4 +29,7 @@ Find, Download, Read
 ***
 # [System Tools, OS, Tweaks, Dev Tools](https://github.com/GIORIEL/Trillium/wiki/System-Tools---OS---Dev-Tools)
 Find Tools, Tweaks, OS
-
+***
+***
+# [GIO's Tweak Tips](https://github.com/GIORIEL/Trillium/wiki/GIO's-Tweaks-Tips)
+Tweak Tips bt GIO
